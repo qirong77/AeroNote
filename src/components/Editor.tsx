@@ -1,8 +1,7 @@
 import { useEffect, useRef } from 'react'
 import { Crepe } from '@milkdown/crepe'
-import '@milkdown/crepe/theme/common/style.css'
-// import '@milkdown/crepe/theme/light/style.css'
-// import '../../node_modules/@milkdown/crepe/lib/theme/nord-dark//style.css'
+// import '@milkdown/crepe/theme/common/style.css'
+// import '../../node_modules/@milkdown/crepe/lib/theme/frame/style.css'
 import './Editor.css'
 
 function Editor() {

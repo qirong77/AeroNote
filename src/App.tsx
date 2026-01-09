@@ -1,5 +1,5 @@
 import './App.css'
-import './bluesky-overwrite.sass'
+import './bluesky-overwrite.css'
 import Editor from './components/Editor'
 
 function App() {
